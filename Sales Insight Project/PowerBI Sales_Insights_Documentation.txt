@@ -1,0 +1,23 @@
+1) To add red alert alarm for profit %, select limit for it min and max value from: Modeling-> What-If Parameter-> Numeric range-> Select range and add column., then after adding slicer appears.
+
+2) When adding multiple Y-axis, use the double down arrow to go down the hierarchy and upper arrow to drill up the hierarchy - for zonewise contri blue
+
+3) Stacked and Line chart - Revenue LY formula(new measure), then use that graph to plot current year revenue, Revenue LY and Profit margin % line.
+
+
+INSIGHTS
+
+FOR 2020 YEAR,
+
+- Bhubaneshwar has the highest profit margin % of all markets.
+
+- Delhi NCR is the highest revenue generating market with contribution share of 54.7%, but is Delhi generating 54.7% profit? no.
+
+- Even though Bhub has highest pm%, but most profit comes from Mumbai 
+
+- Excel Store was the shop giving the highest profit - 12.5% of all other shops
+
+- For Electricalsara Store, even though they have a very low profit margin (%) in their products, but still they are second - 11.9% when it comes to profit margin % contribution of all shops.It means they have taken many many orders.
+
+-Lucknow has lowest profit margin % and in fact, in 2.5% loss, which is coming from only 1 store "Insight", so we might as well close that store or stop expansion in Lucknow.
+
